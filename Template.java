@@ -20,6 +20,7 @@ public class Template {
             int N = Integer.parseInt(st.nextToken());
             int[] arr = readArr(N, infile, st);
         }*/
+        System.out.println("Hello World!");
 
     }
 
